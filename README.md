@@ -47,6 +47,23 @@ The DMG is Developer ID signed and notarised by Apple — it opens with no Gatek
 
 ![Transfers](assets/transfers-rc.png)
 
+
+## Expanded right-click menu
+
+![Expanded right-click menu](assets/context-menu.png)
+
+Finder's own menu stays (Quick Actions, Open With, extensions). Switchback adds the Explorer commands you reach for:
+
+- **New ▸** Folder · Text document · Markdown · CSV · JSON · Folder with selection · Smart Folder · Tab · Window
+- **Organize ▸** Rename · Duplicate · Make Alias · Compress · Compress with password… · Move to Bin · Tags… · Add to Sidebar
+- **Everyday:** Cut · Paste · Move here · Copy as path · File properties…
+- **Transfer queue ▸** Copy to… · Move to… · Open transfer queue
+- **Select ▸** Select all · Unselect all · Invert selection
+- **Sort and group ▸** · **View and show ▸**
+- Open Terminal here · Copy folder path · Refresh · Resume selected copy · Search with filters…
+
+A command bar above your files also keeps New, Cut, Copy, Paste, Rename, Share, Bin, Sort and View one click away.
+
 ## Pricing
 
 One payment, no subscription:
