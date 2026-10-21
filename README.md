@@ -17,11 +17,11 @@ Switchback brings Windows Explorer-style features to the real macOS Finder — n
 
 **[⬇ Download the latest release](https://github.com/gshipman223/switchback/releases/latest)**
 
-Also available at [switchback.plus/downloads](https://switchback.plus/downloads/Switchback-0.20.dmg).
+Also available at [switchback.plus/downloads](https://switchback.plus/downloads/Switchback-0.22.dmg).
 
 The DMG is Developer ID signed and notarised by Apple — it opens with no Gatekeeper warnings. Verify (optional): SHA-256 is listed on the release page.
 
-> **Current status:** 0.20 is a preview build. Trial activation and purchasing open shortly — see [switchback.plus](https://switchback.plus) for availability.
+> **Current status:** 0.22 is on sale. A 14-day trial needs no card. One Mac is $24.99 USD, and each extra Mac is $8.99 on the same licence key.
 
 ## Requirements
 
@@ -68,9 +68,9 @@ A command bar above your files also keeps New, Cut, Copy, Paste, Rename, Share, 
 
 One payment, no subscription:
 
-- **A$49** founder price (then **A$69** standard)
+- **$24.99 USD** for one Mac
+- **$8.99 USD** for each extra Mac, added to the same licence key
 - 14-day free trial, no card required (starts only once Finder connects)
-- Use on **2 personal Macs**
 - **12 months of updates** included
 
 Licence details: [switchback.plus/pricing](https://switchback.plus/pricing/)
