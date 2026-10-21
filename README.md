@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" alt="Switchback icon">
+  <img src="assets/switchback-icon.png" width="128" alt="Switchback icon">
 </p>
 
 <h1 align="center">Switchback</h1>
