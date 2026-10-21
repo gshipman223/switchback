@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/gshipman223/switchback/releases/latest"><img src="https://img.shields.io/github/v/release/gshipman223/switchback?label=Download" alt="Download latest release"></a>
-  <a href="https://switchback.plus"><img src="https://img.shields.io/badge/Website-switchback.plus-blue" alt="Switchback website"></a>
+  <a href="https://getswitchback.io"><img src="https://img.shields.io/badge/Website-getswitchback.io-blue" alt="Switchback website"></a>
 </p>
 
 Switchback brings Windows Explorer-style features to the real macOS Finder — no replacement file manager, no learning a new app. Your Finder windows gain an address bar, clickable breadcrumbs, an expandable folder tree, selection checkboxes, single-click options, powerful search (including inside archives), photo timelines, transfer controls with pause/resume, and a Task Manager integrated with Force Quit.
@@ -17,11 +17,11 @@ Switchback brings Windows Explorer-style features to the real macOS Finder — n
 
 **[⬇ Download the latest release](https://github.com/gshipman223/switchback/releases/latest)**
 
-Also available at [switchback.plus/downloads](https://switchback.plus/downloads/Switchback-0.22.dmg).
+Also available at [getswitchback.io/downloads](https://getswitchback.io/downloads/Switchback-0.23.dmg).
 
 The DMG is Developer ID signed and notarised by Apple — it opens with no Gatekeeper warnings. Verify (optional): SHA-256 is listed on the release page.
 
-> **Current status:** 0.22 is on sale. A 14-day trial needs no card. One Mac is $24.99 USD, and each extra Mac is $8.99 on the same licence key.
+> **Current status:** On sale at [getswitchback.io](https://getswitchback.io). A 14-day trial needs no card. One Mac is $24.99 USD, and each extra Mac is $8.99 on the same licence key.
 
 ## Requirements
 
@@ -73,12 +73,12 @@ One payment, no subscription:
 - 14-day free trial, no card required (starts only once Finder connects)
 - **12 months of updates** included
 
-Licence details: [switchback.plus/pricing](https://switchback.plus/pricing/)
+Licence details: [getswitchback.io/pricing](https://getswitchback.io/pricing/)
 
 ## Support
 
-- Setup guide: [switchback.plus/setup](https://switchback.plus/setup/)
-- Support & help: [switchback.plus/support](https://switchback.plus/support/)
+- Setup guide: [getswitchback.io/setup](https://getswitchback.io/setup/)
+- Support & help: [getswitchback.io/support](https://getswitchback.io/support/)
 - Bug reports: [GitHub Issues](https://github.com/gshipman223/switchback/issues)
 
 ## About this repository

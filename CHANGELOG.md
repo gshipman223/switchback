@@ -4,7 +4,7 @@
 
 - New setting: **Show app in Dock** (Settings → General). Turn it off to run Switchback from the menu bar only; applies immediately and is remembered across restarts.
 - Developer ID signed and notarised app + DMG (no Gatekeeper warnings).
-- Preview build: trial activation and purchasing are not open yet — see https://switchback.plus for availability.
+- On sale at https://getswitchback.io. $24.99 USD for one Mac, $8.99 for each extra Mac on the same licence.
 
 ## 0.19 — 21 October 2026
 
