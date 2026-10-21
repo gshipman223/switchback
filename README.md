@@ -27,7 +27,7 @@ The DMG is Developer ID signed and notarised by Apple — it opens with no Gatek
 
 - Apple silicon Mac
 - macOS 26 (build 25G83)
-- One-time setup step in Recovery (guided in-app, fully reversible)
+- One-time setup step in Apple Recovery that sets startup security to **Permissive** for that macOS install (guided in-app; [how to undo it](https://getswitchback.io/setup/))
 
 ## Highlights
 
