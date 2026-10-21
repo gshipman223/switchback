@@ -13,6 +13,11 @@
 
 Switchback brings Windows Explorer-style features to the real macOS Finder — no replacement file manager, no learning a new app. Your Finder windows gain an address bar, clickable breadcrumbs, an expandable folder tree, selection checkboxes, single-click options, powerful search (including inside archives), photo timelines, transfer controls with pause/resume, and a Task Manager integrated with Force Quit.
 
+<p align="center">
+  <a href="https://github.com/gshipman223/switchback/releases/download/v0.23/Switchback-demo.mp4"><img src="assets/demo-video.png" width="720" alt="Watch the 75-second Switchback demo"></a><br>
+  <a href="https://github.com/gshipman223/switchback/releases/download/v0.23/Switchback-demo.mp4"><strong>▶ Watch the 75-second demo</strong></a>
+</p>
+
 ## Download
 
 **[⬇ Download the latest release](https://github.com/gshipman223/switchback/releases/latest)**
