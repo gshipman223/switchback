@@ -22,7 +22,7 @@ Switchback brings Windows Explorer-style features to the real macOS Finder — n
 
 **[⬇ Download the latest release](https://github.com/gshipman223/switchback/releases/latest)**
 
-Also available at [getswitchback.io/downloads](https://getswitchback.io/downloads/Switchback-0.23.dmg).
+Also available at [getswitchback.io/downloads](https://getswitchback.io/downloads/Switchback-1.0.dmg).
 
 The DMG is Developer ID signed and notarised by Apple — it opens with no Gatekeeper warnings. Verify (optional): SHA-256 is listed on the release page.
 
